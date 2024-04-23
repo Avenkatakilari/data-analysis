@@ -9,7 +9,7 @@ This is the artifacts repository to show various dash board metrics using MS Pow
 
 ## Customer
 
-![Customer Dashboard](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Customer Dashboard](https://github.com/Avenkatakilari/data-analysis/blob/main/artifacts/CustomerDashboard.jpg?raw=true)
 
 Dashboard metrics:
 
