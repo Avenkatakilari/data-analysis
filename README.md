@@ -35,10 +35,47 @@ More metrics can be added, for example, how much time it takes to close a tic
 
 ## Leads
 
+![Leads Dashboard](https://github.com/Avenkatakilari/data-analysis/blob/main/artifacts/LeadsDashboard.jpg?raw=true)
 
+Metrics </BR>
+
+New leads </BR>
+Won amount</BR>
+Lost amount</BR>
+Funnel stages</BR>
+
+Pros: </BR>
+
+Comprehensive,
+Automated, can be connected to multiple data sources
+Self-updating,
+Interactive dashboard
+Includes filtered.
+Clear and concise dashboard design.
+Useful for sales analysis.
+
+Cons: </BR>
+Some professionals might want to include more metrics to analyze sales performance
 
 
 ## Sales
 
+![Leads Dashboard](https://github.com/Avenkatakilari/data-analysis/blob/main/artifacts/SalesDashborad.jpg?raw=true)
 
+
+Metrics</BR>
+
+Total sales</BR>
+SM sales</BR>
+Online sales</BR>
+ROI</BR>
+Total sales by channel</BR>
+
+Pros: </BR>
+Clear design and easy-to-read palette,
+Analysis-ready overview,
+Tailored for marketing teams
+
+Cons:</BR>
+Will require adapting for a specific organization
 
