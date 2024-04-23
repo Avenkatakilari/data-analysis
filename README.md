@@ -11,15 +11,25 @@ This is the artifacts repository to show various dash board metrics using MS Pow
 
 ![Customer Dashboard](https://github.com/Avenkatakilari/data-analysis/blob/main/artifacts/CustomerDashboard.jpg?raw=true)
 
-Dashboard metrics:
+Dashboard metrics:</BR>
 
-Open cases
-Customer satisfaction level
-Channels popularity rate
-Top case closers
-Closed cases
+Open cases </BR>
+Customer satisfaction level</BR>
+Channels popularity rate</BR>
+Top case closers</BR>
+Closed cases</BR>
 New cases – weekly
 
+Pros</BR>
+
+Comprehensive and informative
+Data is well-presented, includes a variety of different graphical elements (a gauge chart, bar chart, table, line chart, and scorecard)
+A good example of an operational dashboard
+
+Cons</BR>
+
+Some professionals might wish to add more filters
+More metrics can be added, for example, how much time it takes to close a ticket
 
 
 
