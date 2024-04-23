@@ -9,6 +9,17 @@ This is the artifacts repository to show various dash board metrics using MS Pow
 
 ## Customer
 
+![Customer Dashboard](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+Dashboard metrics:
+
+Open cases
+Customer satisfaction level
+Channels popularity rate
+Top case closers
+Closed cases
+New cases – weekly
+
 
 
 
