@@ -7,7 +7,7 @@ This is the artifacts repository to show various dash board metrics using MS Pow
 
 <!-- /TOC -->
 
-## Custmer
+## Customer
 
 
 
